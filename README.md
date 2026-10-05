@@ -139,7 +139,7 @@ IIT Madras | 8-week course | Jul–Sep 2024
 **B.Tech in Electronics and Communication Engineering**  
 Rajiv Gandhi Institute of Technology, Kottayam  
 Kerala Technological University  
-CGPA: 7.2 / 10 | Expected Graduation: 2027
+CGPA: 7.23 / 10 | Expected Graduation: 2027
 
 ---
 
