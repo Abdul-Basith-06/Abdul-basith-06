@@ -79,6 +79,8 @@ Currently focusing on **Verilog, RTL design, verification, and digital IC design
 - Implemented threshold-based monitoring and remote alerts using Blynk IoT.
 - Developed mathematical estimation logic for BOD/COD parameters.
 - Worked on sensor interfacing, embedded programming, data processing, and hardware-software integration.
+ 
+**Repository:** [Industrial-Water-Quality-Monitoring-System](https://github.com/Abdul-Basith-06/Industrial-Water-Quality-Monitoring-System)
 
 ---
 
@@ -89,6 +91,8 @@ Currently focusing on **Verilog, RTL design, verification, and digital IC design
 - Monitored soil moisture conditions and controlled a water pump accordingly.
 - Implemented automatic watering based on the detected soil condition.
 - Gained practical experience in microcontroller programming, sensor interfacing, and control logic.
+
+**Repository:** [moisture-sensed-automatic-irrigation-8051](https://github.com/Abdul-Basith-06/moisture-sensed-automatic-irrigation-8051)
 
 ---
 
